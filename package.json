@@ -1,0 +1,17 @@
+{
+  "name": "sinon-chai-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha sinon.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.0",
+    "sinon": "^11.1.1"
+  }
+}
